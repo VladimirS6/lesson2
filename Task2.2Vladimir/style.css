@@ -1,0 +1,26 @@
+body{
+    background-image: url(images/cat.png) ; 
+   background-size: cover ;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana;
+}
+div{
+ width: 40%;
+ color:white;
+ padding-left: 20px;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 40px;
+    background-image: linear-gradient(to top, rgb(155, 22, 22),rgba(170, 165, 165, 0.041));
+    padding: 15px;
+}
+p{
+    font-size:25px;
+}
+ul{
+    font-size:25px;
+}
